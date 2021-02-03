@@ -1,6 +1,6 @@
-# coding-preparation
-
-## Study
+# Coding Interview Preparation
+// TODO: description
+## Topics
 ### Data Structures
 * Arrays
 ### Algorithms
