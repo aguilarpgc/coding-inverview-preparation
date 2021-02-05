@@ -6,7 +6,10 @@
 ### Algorithms
 *
 ## Study
+Read
 * [GeekForFeeks](https://www.geeksforgeeks.org/)
+Videos Playlist
+*
 ## Practice
 * [Leetcode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
