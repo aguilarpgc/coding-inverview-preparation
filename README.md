@@ -6,15 +6,16 @@
 ### Algorithms
 *
 ## Study
-Read
+### Read
 * [GeekForFeeks](https://www.geeksforgeeks.org/)
 
-Videos Playlist
-Data Strutures
+### Videos Playlist
+
+#### Data Strutures
 * [mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P): C/C++, this series needs good understanding of pointers
 
-Algorithms:
-* [Stanford - Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)  and  [Stanford - Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6): Both courses are teached by Professor Tim Roughgarden
+#### Algorithms:
+* [Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)  and  [Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6): Stanford courses, both are teached by Professor Tim Roughgarden
 
 ## Practice
 * [Leetcode](https://leetcode.com/)
