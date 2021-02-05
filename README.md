@@ -11,10 +11,10 @@ Read
 
 Videos Playlist
 Data Strutures
-* [mycodeschool C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P))
+* [mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P): C/C++, this series needs good understanding of pointers
+
 Algorithms:
-* [Stanford - Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
-* [Stanford - Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
+* [Stanford - Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)  and  [Stanford - Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6): Both courses are teached by Professor Tim Roughgarden
 
 ## Practice
 * [Leetcode](https://leetcode.com/)
