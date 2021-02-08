@@ -3,7 +3,7 @@
 ## Topics
 ### Data Structures
 * Arrays
-* Liked Lists
+* Linked Lists
 ### Algorithms
 *
 ## Study
