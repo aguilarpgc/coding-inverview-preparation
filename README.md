@@ -4,6 +4,7 @@
 ### Data Structures
 * Arrays
 * Linked Lists
+* Hash maps/:tables
 ### Algorithms
 *
 ## Study
