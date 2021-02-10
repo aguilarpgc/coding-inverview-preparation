@@ -16,13 +16,15 @@
 #### Data Strutures
 * [mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P): C/C++, this series needs good understanding of pointers
 * [William Fiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu): Data structures course by Google engineer William Fiset
+* [HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX): DS videos by Gayle Laakmann McDowell
 
 #### Algorithms:
-* [Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)  and  [Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6): Stanford courses, both are teached by Professor Tim Roughgarden
+* [Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) and [Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6): Stanford courses, both are teached by Professor Tim Roughgarden
+* [HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL): Algorithms videos by Gayle Laakmann McDowell
 
 ### Books
-* (Introduction to Algorithms, 3rd Edition)[https://www.amazon.com/-/es/Thomas-H-Cormen/dp/0262033844]: Thomas H. Cormen
-* (Cracking the Coding Interview)[https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850]: Gayle Laakmann McDowell
+* [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/-/es/Thomas-H-Cormen/dp/0262033844): Thomas H. Cormen
+* [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850): Gayle Laakmann McDowell
 
 ## Practice
 * [Leetcode](https://leetcode.com/)
