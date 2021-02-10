@@ -10,7 +10,7 @@ Just for fun :)
 
 ## Languages
 * [C++](https://github.com/aguilarpgc/coding-preparation/search?l=c%2B%2B)
-* [Swift)(https://github.com/aguilarpgc/coding-preparation/search?l=swift)
+* [Swift](https://github.com/aguilarpgc/coding-preparation/search?l=swift)
 * [Python](https://github.com/aguilarpgc/coding-preparation/search?l=python)
 
 ## License
