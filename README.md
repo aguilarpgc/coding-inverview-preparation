@@ -19,6 +19,7 @@
 * [HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX): DS videos by Gayle Laakmann McDowell
 
 #### Algorithms:
+* [MIT Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb): Introduction to mathematical modeling of computational problems, MIT 6.006 Fall 2011
 * [Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) and [Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6): Stanford courses, both are teached by Professor Tim Roughgarden
 * [HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL): Algorithms videos by Gayle Laakmann McDowell
 
