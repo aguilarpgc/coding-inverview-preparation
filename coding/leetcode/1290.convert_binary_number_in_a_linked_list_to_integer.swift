@@ -3,10 +3,7 @@ class Solution {
         var result = 0
         var temp = head
         while let current = temp {
-            result *= 2
-            if current.val == 1 {
-                result += 1
-            }
+	    result = result << 1 | current.val
             temp = current.next
         }
         return result
