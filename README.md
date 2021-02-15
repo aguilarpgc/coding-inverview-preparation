@@ -25,7 +25,7 @@
 * [HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL): Algorithms videos by Gayle Laakmann McDowell
 
 ### Books
-* [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/-/es/Thomas-H-Cormen/dp/0262033844): Thomas H. Cormen
+* [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/-/es/Thomas-H-Cormen/dp/0262033844): "CLRS" (Cormen, Leiserson, Rivest, Stein)
 * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850): Gayle Laakmann McDowell
 
 ## Practice
