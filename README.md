@@ -1,4 +1,6 @@
-# Coding Interview Preparation
+# Coding Interview Preparation (version 0.2)
+
+This is a work in progress where I'll continue updating and adding topics, resources and anything related to coding interview preparations
 
 ## Topics
 ### Data Structures
