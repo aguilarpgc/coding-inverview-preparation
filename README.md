@@ -1,4 +1,4 @@
-# Coding Interview Preparation (version 0.2)
+# Coding Interview Preparation
 
 This is a work in progress where I'll continue updating and adding topics, resources and anything related to coding interview preparations
 
@@ -26,6 +26,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * [MIT Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb): Introduction to mathematical modeling of computational problems, MIT 6.006 Fall 2011
 * [Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) and [Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6): Stanford courses, both are teached by Professor Tim Roughgarden
 * [HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL): Algorithms videos by Gayle Laakmann McDowell
+* [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O): By Abdul Bari.
 
 ### Books
 * [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/-/es/Thomas-H-Cormen/dp/0262033844): "CLRS" (Cormen, Leiserson, Rivest, Stein)
