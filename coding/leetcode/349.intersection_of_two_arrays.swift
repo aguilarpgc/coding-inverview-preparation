@@ -6,10 +6,10 @@ class Solution {
         for num in nums1 {
             set1.insert(num)
         }
-        for num in nums2 {
+        for num in nums2 where set1.contains(num) {
             set2.insert(num)
         }
         
-        return Array(set1.intersection(set2))
+        return Array(set2)
     }
 }
