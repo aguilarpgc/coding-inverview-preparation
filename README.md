@@ -8,6 +8,8 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Hash Maps
 * Linked Lists
 * Sets
+* Stacks
+* Queues
 
 ### Algorithms
 
