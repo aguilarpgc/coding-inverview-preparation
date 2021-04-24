@@ -12,6 +12,11 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Queues
 
 ### Algorithms
+#### Basic Searching
+* Binary Search
+* 
+### Concepts
+*
 
 ## Study
 ### Articles
