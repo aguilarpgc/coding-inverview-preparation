@@ -1,6 +1,6 @@
 # Coding Interview Preparation
 
-This is a work in progress where I'll continue updating and adding topics, resources and anything related to coding interview preparations
+This is a work in progress where I'll continue updating and adding topics, resources and anything related to coding interview preparations. Also, this is a repositoy for coding solutions related to Leetcode and Codeforces problems.
 
 ## Topics
 ### Data Structures
