@@ -20,6 +20,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 ### Concepts
 * Hashing
 * Bit Manipulation
+* Recursion
 
 ## Study
 ### Articles
