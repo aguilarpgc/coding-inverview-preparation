@@ -5,6 +5,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 ## Topics
 ### Data Structures
 * Arrays
+* Strings
 * Hash Maps
 * Linked Lists
 * Sets
