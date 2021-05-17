@@ -23,6 +23,10 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Bit Manipulation
 * Recursion
 
+### Patterns
+* Backtracking
+* Two/Multiple Pointers
+
 ## Study
 ### Articles
 * [GeekForFeeks](https://www.geeksforgeeks.org/)
