@@ -52,6 +52,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 ## Practice
 * [Leetcode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
+* [Pramp](https://www.pramp.com/dashboard#/)
 
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the MIT License.
