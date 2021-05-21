@@ -15,8 +15,8 @@ This is a work in progress where I'll continue updating and adding topics, resou
 ### Algorithms
 #### Basic Searching
 * Binary Search
-#### Sorting
-* Merge Sort
+* Sorting
+  * Merge Sort
 
 ### Concepts
 * Hashing
