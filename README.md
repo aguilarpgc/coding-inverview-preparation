@@ -11,6 +11,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Sets
 * Stacks
 * Queues
+* Trees
 
 ### Algorithms
 #### Basic Searching
