@@ -14,8 +14,9 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Trees
 
 ### Algorithms
-#### Basic Searching
 * Binary Search
+* DFS (Depth First Search)
+* BFS (Breadth First Search)
 * Sorting
   * Merge Sort
 
