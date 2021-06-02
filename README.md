@@ -12,6 +12,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Stacks
 * Queues
 * Trees
+* Graphs
 #### Advanced
 * Heaps (Priority Queues)
 
