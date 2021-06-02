@@ -12,6 +12,8 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Stacks
 * Queues
 * Trees
+#### Advanced
+* Heaps (Priority Queues)
 
 ### Algorithms
 * Binary Search
