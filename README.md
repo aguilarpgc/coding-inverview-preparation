@@ -1,6 +1,6 @@
 # Coding Interview Preparation
 
-This is a work in progress where I'll continue updating and adding topics, resources and anything related to coding interview preparations. Also, this is a repositoy for coding solutions related to Leetcode and Codeforces problems.
+This is a work in progress where I'll continue updating and adding topics, resources and anything related to coding interview preparations. Also, this is a repository for coding solutions related to Leetcode and Codeforces problems.
 
 ## Topics
 ### Data Structures
@@ -15,6 +15,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Graphs
 #### Advanced
 * Heaps (Priority Queues)
+* Tries
 
 ### Algorithms
 * Binary Search
@@ -22,11 +23,16 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * BFS (Breadth First Search)
 * Sorting
   * Merge Sort
+  * Quick Sort
+  * Insertion Sort
 
 ### Concepts
 * Hashing
 * Bit Manipulation
 * Recursion
+* Divide & Conquer
+* Greedy Algorithms
+* Dynamic Programming / Memoization
 
 ### Patterns
 * Backtracking
