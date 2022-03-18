@@ -16,6 +16,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 #### Advanced
 * Heaps (Priority Queues)
 * Tries
+* Union Find (Disjoint Set)
 
 ### Algorithms
 * Binary Search
