@@ -38,6 +38,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 ### Patterns
 * Backtracking
 * Two/Multiple Pointers
+* Fast/Slow Pointers
 * Sliding window
 
 ## Study
