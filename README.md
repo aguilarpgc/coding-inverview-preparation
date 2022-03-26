@@ -4,7 +4,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 
 ## Topics
 ### Data Structures
-* Arrays
+* Arrays / Matrices
 * Strings
 * Hash Maps
 * Linked Lists
