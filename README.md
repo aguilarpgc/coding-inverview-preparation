@@ -57,6 +57,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * [Algorithms 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) and [Algorithms 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6): Stanford courses, both are teached by Professor Tim Roughgarden
 * [HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL): Algorithms videos by Gayle Laakmann McDowell
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O): By Abdul Bari.
+* [Coding Made Simple](https://www.youtube.com/user/tusharroy2525/playlists): By Tushar Roy
 
 ### Books
 * [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/-/es/Thomas-H-Cormen/dp/0262033844): "CLRS" (Cormen, Leiserson, Rivest, Stein)
