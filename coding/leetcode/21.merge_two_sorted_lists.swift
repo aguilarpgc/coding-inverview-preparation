@@ -1,28 +1,28 @@
+// O(m+n), O(1)
 class Solution {
-    func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
-        var headList1 = l1
-        var headList2 = l2
-        var mock: ListNode? = ListNode(-1)
-        var head: ListNode? = mock
+    func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
+        var list1: ListNode? = list1
+        var list2: ListNode? = list2
+        var newCurrent: ListNode? = ListNode(0, nil)
+        let newHead: ListNode? = newCurrent
         
-        while let head1 = headList1, let head2 = headList2 {
-            if head1.val < head2.val {
-                mock?.next = head1
-                headList1 = head1.next
+        while let current1 = list1, let current2 = list2 {
+            if current1.val < current2.val {
+                newCurrent?.next = current1
+                list1 = list1?.next
             } else {
-                mock?.next = head2
-                headList2 = head2.next
+                newCurrent?.next = current2
+                list2 = list2?.next
             }
-            mock = mock?.next
+            newCurrent = newCurrent?.next
         }
-        
-        if let head1 = headList1 {
-            mock?.next = head1
+        if let current1 = list1 {
+            newCurrent?.next = current1
         }
-        if let head2 = headList2 {
-            mock?.next = head2
+        if let current2 = list2 {
+            newCurrent?.next = current2
         }
-        
-        return head?.next
+        return newHead?.next
     }
 }
+

@@ -1,12 +1,12 @@
+// O(n), O(1)
 class Solution {
     func reverseList(_ head: ListNode?) -> ListNode? {
-        var current = head
+        var current: ListNode? = head
         var prev: ListNode?
-        var next: ListNode?
         while let node = current {
-            next = node.next
-            current?.next = prev
-            prev = current
+            let next = node.next
+            node.next = prev
+            prev = node
             current = next
         }
         return prev
