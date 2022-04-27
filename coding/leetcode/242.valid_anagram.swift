@@ -1,20 +1,19 @@
+// O(n), O(n)
 class Solution {
     func isAnagram(_ s: String, _ t: String) -> Bool {
         guard s.count == t.count else {
             return false
         }
+        var alphabet: [Character: Int] = [:]
         
-        var ocurrences: [Character: Int] = [:]
+        let arrayS = Array(s)
+        let arrayT = Array(t)
         
-        for (charS, charT) in zip(s, t) {
-            ocurrences[charS, default: 0] += 1
-            ocurrences[charT, default: 0] -= 1
+        for i in 0..<arrayS.count {
+            alphabet[arrayS[i], default: 0] += 1
+            alphabet[arrayT[i], default: 0] -= 1
         }
         
-        for value in ocurrences.values where value != 0 {
-            return false
-        }
-        
-        return true
+        return !alphabet.values.contains { $0 != 0  }
     }
 }
