@@ -40,6 +40,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * Two/Multiple Pointers
 * Fast/Slow Pointers
 * Sliding window
+* Merge intervals
 
 ## Study
 ### Articles
