@@ -28,6 +28,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
   * Insertion Sort
 
 ### Concepts
+* Math
 * Hashing
 * Bit Manipulation
 * Recursion
