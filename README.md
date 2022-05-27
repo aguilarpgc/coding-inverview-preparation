@@ -26,6 +26,7 @@ This is a work in progress where I'll continue updating and adding topics, resou
   * Merge Sort
   * Quick Sort
   * Insertion Sort
+  * Topological Sort
 
 ### Concepts
 * Math
