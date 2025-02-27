@@ -72,5 +72,9 @@ This is a work in progress where I'll continue updating and adding topics, resou
 * [HackerRank](https://www.hackerrank.com/)
 * [Pramp](https://www.pramp.com/dashboard#/)
 
+## Recommended
+* [NeetCode (Leetcode video solutions)](https://www.youtube.com/@NeetCode/videos)
+* [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the MIT License.
